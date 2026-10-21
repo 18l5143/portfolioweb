@@ -44,9 +44,3 @@ This project looks at sales trends over time to find out when sales are highest.
 - Power BI
 - Python
 - Excel
-
-![CarData Visualization_Tableau](https://github.com/user-attachments/assets/3f2c2d5a-e567-436f-8f2d-e87734c02c37)
-
- ### Tools
- - MySQL
- - Tableau
